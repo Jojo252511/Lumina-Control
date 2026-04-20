@@ -1,6 +1,6 @@
 # Lumina-Control
 
-A lightweight, Python-based hardware control center for Linux, specifically designed for systems running **CachyOS** and **Hyprland** (Caelestia). 
+A lightweight, Python-based hardware control center for Linux, specifically designed for systems running **CachyOS** and **Hyprland** ([Caelestia](https://github.com/caelestia-dots/caelestia)). 
 
 This project aims to provide a clean and intuitive GUI to manage hardware components that usually rely on Windows-only software.
 
@@ -29,12 +29,8 @@ This project is currently in its early stages. I am building this to bridge the 
 
 ---
 
-## Requirements (Planned)
-To use Lumina-Control, you will eventually need:
-* **Python 3.x**
-* **OpenRGB** (for lighting control)
-* **lm-sensors** (for hardware data)
-* **Linux Kernel with hwmon support**
+## Requirements
+
 
 
 **Stay tuned for the first alpha release!**
