@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+.env
+
+# Python bytecode / Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# OpenRGB / Log files
+*.log
